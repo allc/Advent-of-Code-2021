@@ -1,5 +1,4 @@
 import argparse
-import statistics
 
 
 def part1(input_file):
