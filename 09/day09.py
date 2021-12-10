@@ -1,5 +1,4 @@
 import argparse
-import itertools
 
 
 def part1(input_file):
